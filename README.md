@@ -24,11 +24,6 @@ A Python application to organize and manage daily tasks using **Object-Oriented 
 - `random` module for unique IDs
 - File handling and error handling
 
----
-
-## Installation
-
-1. Clone the repository:
 ```bash
 git clone https://github.com/Farsi13/Student-Task-Tracker-Application.git
 
